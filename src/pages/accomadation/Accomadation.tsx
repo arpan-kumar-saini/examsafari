@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 function Accomadation() {
   return (

@@ -7,6 +7,7 @@ import ExamCity from '@/components/examcity/ExamCity'
 import AcoFeature from '@/components/feature/AcoFeature'
 import TravelFeature from '@/components/feature/TravelFeature'
 import Faq from '@/components/Faqs/Faq'
+import Bannar1 from '@/components/bannar/Bannar1'
 
 
 function Home() {  
@@ -17,6 +18,7 @@ function Home() {
         <Services/>
         <ExamCity/>
         <AcoFeature/>
+        <Bannar1/>
         <TravelFeature/> 
         <Faq/>
        
