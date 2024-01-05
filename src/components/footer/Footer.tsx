@@ -4,11 +4,11 @@ function Footer() {
     <>
    
 <footer
-  className=" text-center text-neutral-600 lg:text-left">
+  className=" text-center text-neutral-600 lg:text-left mt-[70px]">
   <div
     className="flex items-center justify-center border-b-2 border-neutral-200 p-6 lg:justify-between">
     <div className="mr-12 hidden lg:block">
-      <span>Get connected with us on social networks:</span>
+      <span></span>
     </div>
     
     <div className="flex justify-center">

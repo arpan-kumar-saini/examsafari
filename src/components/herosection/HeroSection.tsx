@@ -3,7 +3,7 @@
 function HeroSection() {
   return (
     <>
-        <div className=" w-auto h-[250px] -ml-32 md:-ml-0 relative md:h-[700px] -pt-16 overflow-hidden rounded-lg bg-cover bg-no-repeat p-12 text-center bg-[url('/images/bannar3.png')] ">
+        <div className=" w-auto h-[250px] -ml-32 md:-ml-0 relative md:h-[700px]   overflow-hidden rounded-lg bg-cover bg-no-repeat p-12 text-center bg-[url('/images/bannar3.png')] ">
           <div className="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-fixed">
             <div className="flex h-full items-center justify-center">
               <div className="text-neutral-50 ml-32 md:ml-0 mt-10 md:mt-0">

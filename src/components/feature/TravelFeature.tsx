@@ -7,9 +7,9 @@ function TravelFeature() {
   return (
     <>
     <div>
-        <div className='text- md:text-3xl font-bold text-[#374151] ml-20 md:ml-32 pt-6 md:pt-20 '> Travel kar lo guys please ,ek baar kar lo</div>
-        <div className='text-sm md:text-2xl text-[#6B7280]  px-6 text-center md:text-left md:px-0 md:ml-32 md:mt-2'>Travel karna chahiye chahe man kare ya na kare per karna chahiye  </div>
-        <div className="scroll-smooth  text-[10px] md:flex gap-8 justify-between  px-2 md:px-4 pt-6 md:pt-14 md:ml-10">
+        <div className='text- md:text-3xl font-bold text-[#374151] md:mt-[50px] mt-10 ml-16 md:ml-44 pt-6 md:pt-20 '> Travel kar lo guys please ,ek baar kar lo</div>
+        <div className='text-sm md:text-xl text-[#6B7280]  px-6 text-center md:text-left md:px-0  md:ml-[170px] md:mt-2'>Travel karna chahiye chahe man kare ya na kare per karna chahiye  </div>
+        <div className="scroll-smooth  text-[10px] md:flex gap-8 justify-between  px-2 md:px-4 pt-6 md:pt-14 md:ml-32">
           <div className=" ">
               <GiTakeMyMoney style={{color: "#00aff5",}} className='h-20 w-20 ml-32 ' />
               <h2 className="text-[#374151] font-bold text-xl ml-16 md:ml-24">Maje hi maje hein  dekhlo</h2> 

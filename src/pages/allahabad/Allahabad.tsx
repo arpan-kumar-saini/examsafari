@@ -1,8 +1,15 @@
-
+import Layout from '../../components/layout/Layout'
 
 function Allahabad() {
   return (
-    <div>Allahabad</div>
+    
+    <Layout>
+      <>
+      
+      </>
+
+    </Layout>
+    
   )
 }
 
