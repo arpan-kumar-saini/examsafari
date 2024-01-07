@@ -17,17 +17,10 @@ function HeroSection() {
         </div> */}
         <div className="mt-[120px]">
             <img className=" h-[700px] w-full  " src="/images/bannar3.png" alt="dummy-image"/>
-            <h2 className="md:mb-4 md:text-5xl text-[#142d55] uppercase italic font-semibold">travel your exam city with exam safari</h2>
+            <h2 className="absolute bottom-[650px] left-[350px] md:text-5xl text-[#142d55] uppercase italic font-semibold">travel your exam city with exam safari</h2>
             <a href="" className=' ml-2 text-2xl font-semibold text-neutral-50 pt-6 pl-4'>
-            <button className=" bg-red-500 text-white p-2 rounded-[15px] hover:bg-blue-600 m-2">View More..</button></a>
+            <button className=" absolute bottom-[550px] left-[850px] bg-red-500 text-white p-2 rounded-[15px] hover:bg-blue-600 m-2">Book Now</button></a>
         </div>
-
-
-
-
-
-
-
     </>
    
   )

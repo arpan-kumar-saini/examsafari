@@ -24,10 +24,13 @@ function Navbar() {
                 </div>           
              </div>
 
-            <nav className="flex justify-between bg-white text-[#142d55] px-2 md:px-4 h-20  ">
+            <nav className="flex justify-between bg-white text-[#142d55] px-2 md:px-4 h-[70px]  ">
+              <Link to="/">              
               <div>
                 <img src="./images/logo.png" className="h-32 md:ml-32 md:h-12 md:mt-4" alt="" />
               </div>
+              </Link>
+
               <Link to={'/login'}>
               <div  className="md:text-2xl font-semibold md:mr-32 border border-[#142d55] px-2 md:mt-4 py-1 rounded-[5px]">Login</div>
               </Link>
