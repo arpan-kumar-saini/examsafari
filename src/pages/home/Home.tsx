@@ -1,4 +1,4 @@
-import Layout from '../../components/layout/Layout'
+
 
 import HeroSection from '../../components/herosection/HeroSection'
 import Stats from '@/components/stats/Stats'
@@ -8,11 +8,15 @@ import AcoFeature from '@/components/feature/AcoFeature'
 import TravelFeature from '@/components/feature/TravelFeature'
 import Faq from '@/components/Faqs/Faq'
 import Bannar1 from '@/components/bannar/Bannar1'
+import Navbar from '@/components/navbar/Navbar'
+import Layout from '@/components/layout/Layout'
 
 
 function Home() {  
   return (
-    <Layout >
+   
+   <Layout>
+        <Navbar/>
         <HeroSection/>  
         <Stats/> 
         <Services/>
@@ -21,8 +25,9 @@ function Home() {
         <Bannar1/>
         <TravelFeature/> 
         <Faq/>
+  </Layout>
        
-    </Layout>
+        
   )
 }
 
