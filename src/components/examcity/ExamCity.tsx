@@ -5,7 +5,7 @@ function ExamCity() {
     <>
         <div className='text-2xl md:text-3xl font-bold text-[#374151] ml-32 mt-[50px] md:mt-[100px] md:ml-44  '>Exam Cities</div>
         <div className='text-sm md:text-xl text-[#6B7280]  ml-28 md:ml-[170px] md:mt-2'>Little text about Cities </div>
-        <div className='md:flex gap-4 md:ml-28 px-8'>
+        <div className='md:flex gap-4 md:mx-28 px-8'>
             <Link to="/allahabad">
             <div className="relative">
                 <img className=" h-[300px] w-auto rounded-[25px] p-2  " src="./public/images/allahabad.png" alt="dummy-image"/>

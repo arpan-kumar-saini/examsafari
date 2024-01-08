@@ -6,7 +6,7 @@ function Login() {
   return (
     <>
       <Navbar/>
-      <section className="pt-24">
+      <section className="pt-24 mt-[120px]">
         <div className="container h-full  mt-24 pl-[500px]  ">
           <div className="g-6 flex h-full flex-wrap items-center   justify-center lg:justify-between">         
             

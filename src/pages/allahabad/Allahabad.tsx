@@ -9,7 +9,10 @@ function Allahabad() {
     
     <Layout>
       <>
-        <div className='flex mt-[120px]'>
+      <div className='mt-[120px]'>
+        <div className='text-2xl md:text-3xl font-bold text-[#374151] ml-4 mt-[50px] md:mt-[100px] md:mx-44  '>Heading</div>
+        <div className='text-sm md:text-xl text-[#6B7280]  ml-28 md:ml-[170px] md:mt-2'>Subheading </div>    
+        <div className='flex '>  
           <div className='w-1/2  h-[700px]  overflow-y-scroll overflow-hidden'>
 
             {/* card 1 */}
@@ -153,7 +156,7 @@ function Allahabad() {
             </div>
 
             {/* card 5  */}
-            <div className='flex m-4 p-2 rounded-[25px] shadow-2xl  '>
+            <div className='flex m-4 p-2 rounded-[25px] shadow-xl  '>
               <img src="/images/kanpur.jpeg" className='h-44 w-44 rounded-[15px] md:ml-4 md:m-4' alt="" />
               <div className='md:mt-4 gap-4'>
                   <h1 className='text-xl font-bold text-[#6B7280] '>North Lodge, London</h1>
@@ -189,7 +192,7 @@ function Allahabad() {
 
 
       {/* card 6 */}
-            <div className='flex m-4  p-2 rounded-[25px] shadow-2xl  '>
+            <div className='flex m-4  p-2 rounded-[25px] shadow-xl  '>
               <img src="/images/kanpur.jpeg" className='h-44 w-44 rounded-[15px] md:ml-4 md:m-4' alt="" />
               <div className='md:mt-4 gap-4'>
                   <h1 className='text-xl font-bold text-[#6B7280] '>North Lodge, London</h1>
@@ -233,6 +236,7 @@ function Allahabad() {
            className='h-[700px] w-[900px]'  loading="lazy" ></iframe>
           </div>
 
+        </div>
         </div>
       </>
 
