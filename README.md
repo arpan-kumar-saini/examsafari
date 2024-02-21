@@ -4,7 +4,7 @@
 <br />
 <div align="center" id='readme-top'>
   <a href="">
-    <img src="https://github.com/arpan-kumar-saini/examsafari/blob/main/public/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/arpan-kumar-saini/examsafari/blob/main/public/images/logo.png" alt="Logo" width="130" height="80">
   </a>
 
   <h3 align="center">ExamSafari</h3>
@@ -130,7 +130,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@arpan_kumar_saini](https://www.instagram.com/arpan_kumar_saini/) - arpansaini55@gamil.com
 
-Project Link: [https://github.com/arpan-kumar-saini/examsafri](https://github.com/arpan-kumar-saini/examsafari)
+Project Link: [https://github.com/arpan-kumar-saini/examsafari](https://github.com/arpan-kumar-saini/examsafari)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
