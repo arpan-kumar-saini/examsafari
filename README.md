@@ -4,7 +4,7 @@
 <br />
 <div align="center" id='readme-top'>
   <a href="">
-    <img src="https://github.com/arpan-kumar-saini/examsafari/blob/main/public/images/logo.png" alt="Logo" width="130" height="80">
+    <img src="https://github.com/arpan-kumar-saini/examsafari/blob/main/public/images/logo.png" alt="Logo" width="170" height="80">
   </a>
 
   <h3 align="center">ExamSafari</h3>
