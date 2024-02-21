@@ -4,7 +4,7 @@
 <br />
 <div align="center" id='readme-top'>
   <a href="">
-    <img src="https://github.com/arpan-kumar-saini/Stock-images/blob/main/ArtifyLogo.jpeg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/arpan-kumar-saini/examsafari/blob/main/public/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ExamSafari</h3>
@@ -46,22 +46,21 @@
 <img src='https://github.com/arpan-kumar-saini/Stock-images/blob/main/ExamSafariHomepage.png'>
 
 
-🎨 Welcome to Artify, where creativity meets commerce! 🛍️ <br>
+📚 Welcome to Exam Safari, your one-stop destination for exam center accommodations and travel bookings! 🌍<br>
 
-🌟 Immerse yourself in a world of artistic wonder as you browse, buy, and sell captivating artwork! 🖼️ <br>
+🎓 Embark on your academic journey with ease and convenience through our innovative platform! 🚀 <br>
 
+🏨 Discover a wide range of accommodation options tailored specifically for students near exam centers! 🏠 <br>
 
-🤝 Join our diverse community of artists and art enthusiasts from around the globe! 🌍 <br>
+🚗 Seamlessly plan your travel arrangements with our intuitive booking system, ensuring stress-free journeys to your exams! 🎟️ <br>
 
-💰 Discover unique masterpieces and support talented creators by purchasing their one-of-a-kind works! 💸 <br>
+🌟 Experience the thrill of exploring new destinations while preparing for your exams, all with the comfort and assurance of Exam Safari! 🗺️ <br>
 
-🎨 Unlock your inner artist and unleash your creativity with our platform's intuitive tools and resources! 🖌️ <br>
+📅 Stay organized with our calendar feature, keeping track of your exam dates and travel plans effortlessly! 📆 <br>
 
-📸 Showcase your portfolio, connect with buyers, and turn your passion into profit! 💼 <br>
+👩‍🎓👨‍🎓 Join thousands of students who have made Exam Safari their trusted companion on their academic adventures! 🌟 <br>
 
-🔍 Explore endless possibilities and find the perfect piece to adorn your space or inspire your soul! 🏠✨ <br>
-
-🌈 Whether you're an artist seeking exposure or an art lover seeking inspiration, Artify is your destination for all things creative! 🌟🎨 <br>
+💼 Whether it's a short trip or a semester abroad, let Exam Safari be your guide to success! 🌟 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -131,7 +130,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@arpan_kumar_saini](https://www.instagram.com/arpan_kumar_saini/) - arpansaini55@gamil.com
 
-Project Link: [https://github.com/arpan-kumar-saini/artify](https://github.com/arpan-kumar-saini/artify)
+Project Link: [https://github.com/arpan-kumar-saini/examsafri](https://github.com/arpan-kumar-saini/examsafari)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
