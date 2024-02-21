@@ -13,7 +13,7 @@
     This project is exam center's Accomodation and Travel booking  Website for Students.
     <br />   
     <br />
-    <a href="https://ritu-artify.netlify.app/">View Demo</a>
+    <a href="https://arpan-examsafari.netlify.app/">View Demo</a>
     ·
     <a href="">Report Bug</a>
     ·
@@ -43,7 +43,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src='https://arpansaini.netlify.app/images/artify.png'>
+<img src='https://github.com/arpan-kumar-saini/Stock-images/blob/main/ExamSafariHomepage.png'>
 
 
 🎨 Welcome to Artify, where creativity meets commerce! 🛍️ <br>
